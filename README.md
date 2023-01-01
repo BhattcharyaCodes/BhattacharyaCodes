@@ -8,6 +8,6 @@
 ###### 🎨 Portfolio:  https://bhattcharyacodes.github.io/portfolio/
 
 ###### 💼 LinkedIn: https://www.linkedin.com/in/bhattacharyapuja/
-################## Twitter: 
-############ Medium: https://medium.com/@pujabhattacharya
+###### Twitter: 
+###### Medium: https://medium.com/@pujabhattacharya
 ###### StackOverflow:
