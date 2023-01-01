@@ -4,7 +4,7 @@
 <br>
  📓 I’m currently learning DS and Algo... 😭 , Performance testing 
 
- 📧 puja.bhattacharya.pb@gmail.com  , puja.testacc@gmail.com 
+ 📧 puja.bhattacharya.pb@gmail.com  , puja.testacc@gmail.com <br>
 🎨 Portfolio:  https://bhattcharyacodes.github.io/portfolio/
 
 ###### 💼 LinkedIn: https://www.linkedin.com/in/bhattacharyapuja/
